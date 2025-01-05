@@ -33,7 +33,8 @@ An extensive list of JavaScript libraries organized by category, covering all po
 | **Lottie-web**                                                | Render animations in JSON format.            | [GitHub](https://github.com/airbnb/lottie-web) |
 | **Zdog**                                                      | 3D vector animations with a flat design.     | [Official](https://zzz.dog/)               |
 
-
+&nbsp;
+&nbsp;
 
 ## **AJAX & HTTP Requests** 📡
 
@@ -44,7 +45,8 @@ An extensive list of JavaScript libraries organized by category, covering all po
 | **ky**                                                        | Tiny and efficient HTTP client.             | [GitHub](https://github.com/sindresorhus/ky) |
 | **SuperAgent**                                                | Flexible and feature-packed AJAX requests.   | [Official](https://visionmedia.github.io/superagent/) |
 
-
+&nbsp;
+&nbsp;
 
 ## **Validation** ✅
 
@@ -55,7 +57,8 @@ An extensive list of JavaScript libraries organized by category, covering all po
 | **Parsley.js**                                                | Advanced form validation library.           | [Official](https://parsleyjs.org/)         |
 | **VeeValidate**                                               | Form validation library for Vue but adaptable. | [GitHub](https://github.com/logaretm/vee-validate) |
 
-
+&nbsp;
+&nbsp;
 
 ## **Date & Time** 🕒
 
@@ -66,7 +69,8 @@ An extensive list of JavaScript libraries organized by category, covering all po
 | **Luxon**                                                     | Clean and powerful date/time library.       | [Official](https://moment.github.io/luxon/) |
 | **Moment.js**                                                 | Popular date and time library.              | [Official](https://momentjs.com/)          |
 
-
+&nbsp;
+&nbsp;
 
 ## **Utilities** 🛠️
 
@@ -78,7 +82,8 @@ An extensive list of JavaScript libraries organized by category, covering all po
 | **Micro.js**                                                  | A collection of micro-libraries.            | [Official](https://microjs.com/)           |
 | **Fuse.js**                                                   | Lightweight fuzzy-search library.           | [GitHub](https://github.com/krisk/fuse)    |
 
-
+&nbsp;
+&nbsp;
 
 ## **Charting & Visualization** 📊
 
@@ -90,7 +95,8 @@ An extensive list of JavaScript libraries organized by category, covering all po
 | **Highcharts**                                                | Feature-packed charting library.            | [Official](https://www.highcharts.com/)    |
 | **Plotly.js**                                                 | Interactive plotting for web apps.          | [Official](https://plotly.com/javascript/) |
 
-
+&nbsp;
+&nbsp;
 
 ## **Routing** 🧭
 
@@ -101,6 +107,8 @@ An extensive list of JavaScript libraries organized by category, covering all po
 | **Router.js**                                                 | Simple router for JavaScript applications.  | [GitHub](https://github.com/crissdev/routerjs) |
 
 
+&nbsp;
+&nbsp;
 
 ## **State Management** ⚙️
 
@@ -110,7 +118,8 @@ An extensive list of JavaScript libraries organized by category, covering all po
 | **Zustand**                                                   | Lightweight state management solution.      | [GitHub](https://github.com/pmndrs/zustand) |
 | **Redux**                                                     | Predictable state container.                | [Official](https://redux.js.org/)          |
 
-
+&nbsp;
+&nbsp;
 
 ## **Modals & Alerts** 🎉
 
@@ -120,7 +129,8 @@ An extensive list of JavaScript libraries organized by category, covering all po
 | **Micromodal.js**                                             | Accessible and lightweight modal solution.  | [Official](https://micromodal.vercel.app/) |
 | **Tingle.js**                                                 | Simple modal library with no dependencies.  | [Official](https://tingle.robinparisi.com/) |
 
-
+&nbsp;
+&nbsp;
 
 ## **Testing** 🧪
 
@@ -130,7 +140,8 @@ An extensive list of JavaScript libraries organized by category, covering all po
 | **Mocha**                                                     | Flexible and feature-rich testing.          | [Official](https://mochajs.org/)           |
 | **Cypress**                                                   | End-to-end testing for modern web apps.     | [Official](https://www.cypress.io/)        |
 
-
+&nbsp;
+&nbsp;
 
 ## **File Uploads** 📤
 
@@ -139,7 +150,8 @@ An extensive list of JavaScript libraries organized by category, covering all po
 | **Dropzone.js**                                               | Drag-and-drop file uploader.                | [Official](https://www.dropzonejs.com/)    |
 | **Uppy**                                                      | Modern file uploader with a sleek UI.       | [Official](https://uppy.io/)              |
 
-
+&nbsp;
+&nbsp;
 
 ## **Others** 🌟
 
@@ -148,6 +160,7 @@ An extensive list of JavaScript libraries organized by category, covering all po
 | **VanillaLazyLoad**                                           | Lazy loading for images and iframes.        | [GitHub](https://github.com/verlok/vanilla-lazyload) |
 | **Sortable.js**                                               | Drag-and-drop reorderable lists.            | [Official](https://sortablejs.github.io/Sortable/) |
 | **Clipboard.js**                                              | Copy to clipboard utility.                  | [Official](https://clipboardjs.com/)       |
+
 
 ---
 
