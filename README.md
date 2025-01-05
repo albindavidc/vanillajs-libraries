@@ -18,7 +18,8 @@ An extensive list of JavaScript libraries organized by category, covering all po
 | **Bonzo**                                                     | Library for simpler DOM manipulation.       | [GitHub](https://github.com/ded/bonzo)     |
 | **DOMtastic**                                                 | Lightweight DOM and event library.          | [GitHub](https://github.com/webpro/DOMtastic) |
 
-
+&nbsp;
+&nbsp;
 
 ## **Animation** 🎥
 
